@@ -272,23 +272,6 @@ body{
     width: 80%;
 }
 
-.g-h2{
-    margin: 0;
-    display: flex;
-    align-items: center;
-    /* text-align: left; */
-    text-align: left;
-}
-.g-h2 h2{
-    font-size: 45px;
-    font-weight: 400;
-}
-.g-h2 span{
-    display: block;
-}
-.g-sec{
-    flex: 1; 
-}
 
 
 
@@ -308,6 +291,23 @@ body{
     height: 100%;
     max-width: 100%;
     object-fit: contain;
+}
+.g-h2{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    /* text-align: left; */
+    text-align: left;
+}
+.g-h2 h2{
+    font-size: 45px;
+    font-weight: 400;
+}
+.g-h2 span{
+    display: block;
+}
+.g-sec{
+    flex: 1; 
 }
 .g2{
     width: 100%;
